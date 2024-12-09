@@ -60,10 +60,6 @@ Our optimization efforts yielded the following improvements:
 
 These results demonstrate significant improvements in model size and inference speed, with a moderate trade-off in accuracy.
 
-## Contributing
-
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
